@@ -12,8 +12,8 @@
     </properties>
 
     <scm>
-        <connection>scm:git:git@github.com/timclark-bgch/data-watchers.git</connection>
-        <developerConnection>scm:git:git@github.com/timclark-bgch/data-watchers.git</developerConnection>
+        <connection>scm:git:git@github.com:timclark-bgch/data-watchers.git</connection>
+        <developerConnection>scm:git:git@github.com:timclark-bgch/data-watchers.git</developerConnection>
   </scm>
 
     <distributionManagement>
