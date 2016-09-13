@@ -4,7 +4,7 @@
 
     <groupId>zoo.platform.shared.utility</groupId>
     <artifactId>data-watchers</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -14,6 +14,7 @@
     <scm>
         <connection>scm:git:git@github.com:timclark-bgch/data-watchers.git</connection>
         <developerConnection>scm:git:git@github.com:timclark-bgch/data-watchers.git</developerConnection>
+    <tag>data-watchers-1.0</tag>
   </scm>
 
     <distributionManagement>
